@@ -7,6 +7,7 @@
 - [View Drawing Cycle](https://github.com/ujhong7/TIL/issues/2)
 - [Core Graphics](https://github.com/ujhong7/TIL/issues/4)
 - [frame과 bounds의 차이](https://github.com/ujhong7/TIL/issues/7)
+- [UIWindow, makeKeyAndVisible()]()
 
 ## Swift
 
