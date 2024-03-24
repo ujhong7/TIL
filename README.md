@@ -8,7 +8,7 @@
 - [Core Graphics](https://github.com/ujhong7/TIL/issues/4)
 - [frame과 bounds의 차이](https://github.com/ujhong7/TIL/issues/7)
 - [UIWindow, makeKeyAndVisible()](https://github.com/ujhong7/TIL/issues/8)
-- [GCD 사용시 주의사항]((https://github.com/ujhong7/TIL/issues/9))
+- [GCD 사용시 주의사항](https://github.com/ujhong7/TIL/issues/9)
 
 ## Swift
 
