@@ -15,5 +15,5 @@
 - [Any/AnyObject](https://github.com/ujhong7/TIL/issues/3)
 - [Override](https://github.com/ujhong7/TIL/issues/6)
 - [Static](https://github.com/ujhong7/TIL/issues/5)
-- [Concurrency (Async/Await)](https://github.com/ujhong7/TIL/issues/10)
+- [GCD](https://github.com/ujhong7/TIL/issues/10)
 
