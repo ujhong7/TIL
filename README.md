@@ -17,4 +17,5 @@
 - [Static](https://github.com/ujhong7/TIL/issues/5)
 - [GCD](https://github.com/ujhong7/TIL/issues/10)
 - [클로저와 메모리관리](https://github.com/ujhong7/TIL/issues/11)
+- [didSet](https://github.com/ujhong7/TIL/issues/12)
 
