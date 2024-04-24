@@ -9,7 +9,8 @@
 - [frame과 bounds의 차이](https://github.com/ujhong7/TIL/issues/7)
 - [UIWindow, makeKeyAndVisible()](https://github.com/ujhong7/TIL/issues/8)
 - [GCD 사용시 주의사항](https://github.com/ujhong7/TIL/issues/9)
-- [동시성프로그래밍](https://github.com/ujhong7/TIL/issues/12)
+- [동시성프로그래밍](https://github.com/ujhong7/TIL/issues/13)
+- [Moya](https://github.com/ujhong7/TIL/issues/14)
 
 ## Swift
 
